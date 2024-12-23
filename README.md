@@ -10,7 +10,7 @@
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brenolx&layout=compact&langs_count=8&card_width=320&theme=algolia" />
 </a>
 
-<div style="display: inline_block""><br>
+<div style="display: inline_block">
   <img align="center" alt="Breno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript">
   <img align="center" alt="Breno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5">
   <img align="center" alt="Breno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3">
