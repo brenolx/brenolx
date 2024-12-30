@@ -1,6 +1,6 @@
 ## Bem vindo ao meu repostório.
 - 📚 Análise e Desenvolvimento de Sistemas.
-- 🕵️‍♂️ Cyber Security.
+- 🕵️‍♂️ Segurança da Informação.
 - 💻 Análise de Malware.
 
 <a href="https://github.com/brenolx/github-readme-stats"><br>
