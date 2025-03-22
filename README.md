@@ -12,14 +12,14 @@
 <!-->
 
 <div style="display: inline_block">
-  <img align="center" alt="Breno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript">
+  <img align="center" alt="Breno-Linux" height="31" width="41" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Git">
   <img align="center" alt="Breno-Java" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java">
   <img align="center" alt="Breno-Python" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python">
   <img align="center" alt="Breno-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C">
   <img align="center" alt="Breno-Git" height="31" width="41" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" title="Git">
   <a href="https://www.linkedin.com/in/breno-cavalcante-182a5a26b/"> <img align="center" alt="Breno-Git" height="31" width="41" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" title="Linkedin"> </a> 
           
-</div>
+</div> 
 
 <!--![snake gif](https://github.com/brenoxs99/brenoxs99/blob/output/github-contribution-grid-snake.svg)-->
  
