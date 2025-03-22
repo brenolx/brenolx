@@ -12,7 +12,7 @@
 <!-->
 
 <div style="display: inline_block">
-  <img align="center" alt="Breno-Linux" height="31" width="41" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Git">
+  <img align="center" alt="Breno-Linux" height="31" width="41" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Tux-Linux">
   <img align="center" alt="Breno-Java" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java">
   <img align="center" alt="Breno-Python" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python">
   <img align="center" alt="Breno-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C">
