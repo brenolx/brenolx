@@ -1,7 +1,6 @@
 ## Bem vindo ao meu repostório.
 - 📚 Análise e Desenvolvimento de Sistemas.
 - 🕵️‍♂️ Segurança da Informação.
-- 💻 Análise de Malware.
 
 <a href="https://github.com/brenolx/github-readme-stats"><br>
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=brenolx&theme=algolia&icons=true" />
